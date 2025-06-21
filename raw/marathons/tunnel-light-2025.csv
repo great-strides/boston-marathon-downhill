@@ -1,5 +1,4 @@
-,,,,,,,,,,,,,,
-Finishers - 831
+ignore,place,first_name,last_name,city,state,age,gender,gender_place,time,rank,status,age_group,time,participant_id
 results,1,George,Brady,Scarsdale,NY,23,M,1,2:34:18,100,1,20-29,9258000,2620643
 results,2,Ben,Winfield,Everett,WA,30,M,2,2:38:19,92.87,1,30-39,9499000,1965203
 results,3,Ryan,Bernhardt,Denver,CO,30,M,3,2:41:37,95.47,1,30-39,9697000,2612845

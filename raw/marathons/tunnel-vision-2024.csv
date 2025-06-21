@@ -1,5 +1,4 @@
-,,,,,,,,,,,,,,
-Finishers - 510
+ignore,place,first_name,last_name,city,state,age,gender,gender_place,time,rank,status,age_group,time,participant_id
 results,1,Bill,Woodruff,Lake Oswego,OR,42,M,1,2:40:47,100,1,40-49,9647000,2301597
 results,2,Andrew,Lemoncello,Happy Valley,OR,40,M,2,2:42:05,99.2,1,40-49,9725000,2084282
 results,3,Andrew,Finnegan,New York City,NY,26,M,3,2:45:10,97.35,1,20-29,9910000,2359294

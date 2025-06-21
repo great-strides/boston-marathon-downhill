@@ -1,5 +1,4 @@
-,,,,,,,,,,,,,,
-Finishers - 852
+ignore,place,first_name,last_name,city,state,age,gender,gender_place,time,rank,status,age_group,time,participant_id
 results,1,Grant,Martin,Corvallis,MT,24,M,1,2:25:01,100,1,20-29,8701000,2564462
 results,2,Jesse,Lambrecht,Seattle,WI,24,M,2,2:27:41,98.19,1,20-29,8861000,2564520
 results,3,Carl,Koopmans,Seattle,WA,35,M,3,2:27:53,89.43,1,30-39,8873000,1513633

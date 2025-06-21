@@ -1,5 +1,4 @@
-,,,,,,,,,,,,,,
-Finishers - 680
+ignore,place,first_name,last_name,city,state,age,gender,gender_place,time,rank,status,age_group,time,participant_id
 results,1,Charlie,Teeter,Corvallis,OR,22,M,1,2:26:08,100,1,20-29,8768000,2599585
 results,2,Ian,Sneller,Wheaton,IL,24,M,2,2:30:42,96.97,1,20-29,9042000,2599692
 results,3,Richard,Strachan,Katy,TX,39,M,3,2:36:47,93.21,1,30-39,9407000,2599906
