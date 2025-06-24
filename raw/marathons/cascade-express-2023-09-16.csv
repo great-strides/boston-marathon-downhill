@@ -1,5 +1,4 @@
-,,,,,,,,,,,,,,
-Finishers - 201
+ignore,place,first_name,last_name,city,state,age,gender,gender_place,time,rank,status,age_group,time_millis,participant_id
 results,1,Connor,O'Hara,Mesa,AZ,31,M,1,2:46:59,59.31,1,30-39,10019000,1940626
 results,2,Janessa,Dunn,San Antonio,TX,30,F,1,2:47:45,99.82,1,30-39,10065000,2432974
 results,3,Boone,Tate,Lake Tapps,WA,25,M,2,2:52:23,86.95,1,20-29,10343000,1896418
@@ -201,7 +200,6 @@ results,198,Lorna,Aldrich,Spanaway,WA,36,F,85,7:03:06,39.65,1,30-39,25386000,243
 results,199,Ed,Burke,Groveland,MA,50,M,114,7:18:00,40.78,1,50-59,26280000,1436354
 results,200,Chris,Bellevie,North Bend,WA,51,M,115,7:26:56,58.6,1,50-59,26816000,308666
 results,201,David,Sosa,Redmond,WA,35,M,116,7:28:37,37.22,1,30-39,26917000,2432952
-Did Not Finish - 6
 results,0,Raul,Tiansay,San Francisco,CA,61,M,0,0,70.57,2,60-69,0,1986779
 results,0,David,Trevizo,Orting,WA,46,M,0,0,0,2,40-49,0,2432953
 results,0,Emily,Velasquez,Silverdale,WA,26,F,0,0,0,2,20-29,0,2432960

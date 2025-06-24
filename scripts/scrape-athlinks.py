@@ -4,20 +4,22 @@ import json
 import os
 
 events = [
-    { 'slug': 'sundance-to-spearfish-2025', 'event': 1088574, 'race': 2506674 },
-    { 'slug': 'sundance-to-spearfish-2024', 'event': 1059767 },
-    { 'slug': 'sundance-to-spearfish-2023', 'event': 1030813 },
-    { 'slug': 'leading-ladies-2025', 'event': 1086802 },
-    { 'slug': 'leading-ladies-2024', 'event': 1042087 },
-    { 'slug': 'leading-ladies-2023', 'event': 1025465 },
-    { 'slug': 'jack-and-jills-downhill-2025', 'event': 1069347 },
-    { 'slug': 'tucson-marathon-2025', 'event': 1066702 },
-    { 'slug': 'tucson-marathon-2024', 'event': 1037732 },
-    { 'slug': 'tucson-marathon-2023', 'event': 994188 },
-    { 'slug': 'pocatello-2025', 'event': 1084635, 'race': 2489475 },
-    { 'slug': 'pocatello-2024', 'event': 1056754, 'race': 2385153 },
-    { 'slug': 'pocatello-2023', 'event': 1026520, 'race': 2277436 },
-    { 'slug': 'hawaii-bird-conservation-2025', 'event': 1067174, 'race': 2421878 },
+    { 'slug': 'sundance-to-spearfish-2024-09-08', 'event': 1088574, 'race': 2506674 },
+    { 'slug': 'sundance-to-spearfish-2023-09-10', 'event': 1059767 },
+    { 'slug': 'sundance-to-spearfish-2022-09-11', 'event': 1030813 },
+    { 'slug': 'leading-ladies-2024-08-18', 'event': 1086802 },
+    { 'slug': 'leading-ladies-2023-08-20', 'event': 1042087 },
+    { 'slug': 'leading-ladies-2022-08-21', 'event': 1025465 },
+    { 'slug': 'tucson-marathon-2023-12-10', 'event': 1066702 },
+    { 'slug': 'tucson-marathon-2022-12-10', 'event': 1037732 },
+    { 'slug': 'tucson-marathon-2021-12-04', 'event': 994188 },
+    { 'slug': 'pocatello-2024-08-31', 'event': 1084635, 'race': 2489475 },
+    { 'slug': 'pocatello-2023-09-02', 'event': 1056754, 'race': 2385153 },
+    { 'slug': 'pocatello-2022-09-03', 'event': 1026520, 'race': 2277436 },
+    { 'slug': 'pocatello-2021-09-04', 'event': 981339, 'race': 2104496 },
+    { 'slug': 'hawaii-bird-conservation-2023-12-17', 'event': 1067174, 'race': 2421878 },
+    { 'slug': 'hawaii-bird-conservation-2022-12-18', 'event': 1038183 },
+    { 'slug': 'hawaii-bird-conservation-2021-12-19', 'event': 1000637 },
 ]
 
 for event in events:

@@ -1,0 +1,78 @@
+Place (chip time),Bib,Name Affiliation,Category,Age,Gender,Finish time 			Chip time,Difference 			% back 			% winning time 			% average time 			% median time 			Start time
+1,1133,"Bettencourt, JakeAledo - TX",Male 20 to 24,20,M,2:48:54.4,--100%36.65%35.29%05:59:37.0
+2,1396,"Schelly, ChadProvo - UT",Male 20 to 24,24,M,2:53:23.9,+4:29.5+2.66%97.41%34.96%33.57%05:59:38.6
+3,1457,"Zick, JanelWest Valley City - UT",Female 25 to 29,29,F,3:00:59.6,+12:05.2+7.16%93.32%32.12%30.66%05:59:39.3
+4,1327,"Losee, NicolasWallsburg - UT",Male 40 to 44,41,M,3:09:07.9,+20:13.5+11.97%89.31%29.06%27.54%05:59:36.2
+5,1395,"Sauer, DieterFulshear - TX",Male 20 to 24,21,M,3:15:01.8,+26:07.4+15.47%86.61%26.85%25.28%05:59:38.2
+6,1354,"Nixon, GraceBountiful - UT",Female 15 to 19,18,F,3:25:19.4,+36:25.0+21.56%82.26%22.99%21.34%05:59:36.0
+7,1199,"Everill, BrettBluffdale - UT",Male 30 to 34,30,M,3:26:16.8,+37:22.4+22.13%81.88%22.63%20.97%05:59:42.4
+8,1208,"Foster, LauraColorado Springs - CO",Female 35 to 39,38,F,3:29:54.0,+40:59.6+24.27%80.47%21.27%19.58%05:59:37.1
+9,1405,"Shull, ShelbyDallas - TX",Female 25 to 29,29,F,3:30:19.0,+41:24.6+24.52%80.31%21.12%19.42%05:59:41.4
+10,1441,"Weston, JordanTulsa - OK",Male 30 to 34,30,M,3:30:55.9,+42:01.5+24.88%80.08%20.89%19.19%05:59:41.9
+11,1307,"Knezevich, RonaldFort Lauderdale - FL",Male 20 to 24,22,M,3:31:49.3,+42:54.9+25.41%79.74%20.55%18.85%05:59:44.0
+12,1476,"Hanson, MatthewRock Springs - WY",Male 30 to 34,31,M,3:43:50.0,+54:55.6+32.52%75.46%16.05%14.24%05:59:40.4
+13,1361,"Painter, MatthewRexburg - ID",Male 25 to 29,26,M,3:43:50.1,+54:55.7+32.52%75.46%16.05%14.24%05:59:57.1
+14,1353,"Nef, RichardLayton - UT",Male 50 to 54,51,M,3:47:46.9,+58:52.5+34.86%74.15%14.57%12.73%05:59:37.3
+15,1210,"Froerer, TonyaEden - UT",Female 40 to 44,40,F,3:49:10.0,+1:00:15.6+35.68%73.70%14.05%12.20%05:59:42.5
+16,1150,"Call, DanielSyracuse - UT",Male 35 to 39,38,M,3:53:03.4,+1:04:09.0+37.98%72.47%12.59%10.71%05:59:36.6
+17,1355,"Nixon, JacobBountiful - UT",Male 20 to 24,23,M,3:54:44.1,+1:05:49.7+38.97%71.96%11.96%10.07%05:59:36.0
+18,1311,"Kunz, RyanSouth Jordan - UT",Male 30 to 34,34,M,3:55:37.6,+1:06:43.2+39.50%71.68%11.62%9.73%05:59:36.9
+19,1451,"Wright, CarrollSaint Paul - MN",Female 30 to 34,30,F,3:57:52.4,+1:08:58.0+40.83%71.01%10.78%8.87%05:59:48.0
+20,1351,"Murphy, PaulSalt Lake City - UT",Male 45 to 49,47,M,3:59:50.7,+1:10:56.3+42.00%70.42%10.04%8.11%05:59:43.0
+21,1462,"Gardner, KristinWest Jordan - UT",Female 35 to 39,39,F,4:00:06.6,+1:11:12.2+42.16%70.35%9.94%8.01%05:59:54.2
+22,1258,"Heiss, RachelLos Angeles - CA",Female 35 to 39,37,F,4:00:54.9,+1:12:00.5+42.63%70.11%9.64%7.70%05:59:53.4
+23,1425,"Sykes, DeanGrand Rapids - MI",Male 55 to 59,59,M,4:04:15.0,+1:15:20.6+44.61%69.15%8.39%6.42%05:59:44.3
+24,1323,"Liechti, JenniferSalt Lake City - UT",Female 40 to 44,41,F,4:08:27.1,+1:19:32.7+47.09%67.98%6.81%4.81%05:59:44.8
+25,1379,"Pyne, ChristinaPhoenix - AZ",Female 20 to 24,24,F,4:08:58.6,+1:20:04.2+47.40%67.84%6.62%4.61%05:59:46.4
+26,1160,"Cheeves, AmberMurfreesboro - TN",Female 40 to 44,40,F,4:11:48.4,+1:22:54.0+49.08%67.08%5.56%3.53%06:00:00.9
+27,1177,"Cruz, ChristianSan Jose - CA",Male 30 to 34,30,M,4:13:59.6,+1:25:05.2+50.37%66.50%4.74%2.69%05:59:36.9
+28,1428,"Thorson, HavenSalt Lake City - UT",Female 20 to 24,24,F,4:18:44.0,+1:29:49.6+53.18%65.28%2.96%0.87%05:59:53.2
+29,1333,"May, ThomasSalt Lake City - UT",Male 30 to 34,30,M,4:19:06.6,+1:30:12.2+53.40%65.19%2.82%0.73%05:59:47.6
+30,1369,"Perret, SylvainAustin - TX",Male 55 to 59,57,M,4:19:44.7,+1:30:50.3+53.78%65.03%2.58%0.49%05:59:51.3
+31,1310,"Kripapuri, KarthikRaleigh - NC",Male 45 to 49,49,M,4:20:35.3,+1:31:40.9+54.28%64.82%2.26%0.16%05:59:58.7
+32,1392,"Saavedra, MagalyOmaha - NE",Female 30 to 34,31,F,4:21:26.3,+1:32:31.9+54.78%64.61%1.94%-0.16%05:59:48.8
+33,1186,"DeSpain, AllisenOklahoma City - OK",Female 25 to 29,26,F,4:25:39.3,+1:36:44.9+57.28%63.58%0.36%-1.78%05:59:52.8
+34,1143,"Burdine, EmmilyOklahoma City - OK",Female 20 to 24,24,F,4:25:40.3,+1:36:45.9+57.29%63.58%0.36%-1.78%05:59:52.5
+35,1162,"Childs, ChelseaGrantsville - UT",Female 25 to 29,29,F,4:25:59.9,+1:37:05.5+57.48%63.50%0.23%-1.91%05:59:45.1
+36,1345,"Mitchell, MarySalt Lake City - UT",Female 25 to 29,25,F,4:28:10.5,+1:39:16.1+58.77%62.98%-0.58%-2.74%05:59:53.0
+37,1257,"Heiss, EvanLos Angeles - CA",Male 35 to 39,35,M,4:31:02.4,+1:42:08.0+60.47%62.32%-1.66%-3.84%05:59:54.1
+38,1253,"Hart, MariahMorgan - UT",Female 15 to 19,16,F,4:40:19.2,+1:51:24.8+65.96%60.25%-5.14%-7.40%05:59:45.6
+39,1432,"Tripp, HollyPark City - UT",Female 55 to 59,59,F,4:42:10.9,+1:53:16.5+67.06%59.86%-5.84%-8.11%05:59:43.9
+40,1449,"Wootan, ScottSahuarita - AZ",Male 30 to 34,31,M,4:44:17.6,+1:55:23.2+68.31%59.41%-6.63%-8.92%05:59:36.3
+41,1225,"Gillich, DonTijeras - NM",Male 50 to 54,54,M,4:45:22.8,+1:56:28.4+68.96%59.19%-7.04%-9.34%05:59:59.8
+42,1204,"Ferrin, ColeSouth Jordan - UT",Male 35 to 39,37,M,4:49:39.1,+2:00:44.7+71.49%58.31%-8.64%-10.97%05:59:52.4
+43,1281,"Huber, MandiSandy - UT",Female 45 to 49,47,F,4:49:44.2,+2:00:49.8+71.54%58.30%-8.67%-11.00%05:59:46.7
+44,1332,"May, SaraSalt Lake City - UT",Female 30 to 34,30,F,4:51:53.4,+2:02:59.0+72.81%57.87%-9.48%-11.83%05:59:49.0
+45,1159,"Checketts, HannahCedar hills - UT",Female 25 to 29,28,F,4:51:56.8,+2:03:02.4+72.84%57.86%-9.50%-11.85%06:00:00.3
+46,1185,"Dennis, ChadSalt Lake City - UT",Male 40 to 44,40,M,4:52:57.0,+2:04:02.6+73.44%57.66%-9.88%-12.24%06:00:02.5
+47,1130,"Belus, HeatherSheridan - WY",Female 20 to 24,23,F,4:55:14.5,+2:06:20.1+74.80%57.21%-10.74%-13.11%05:59:39.9
+48,1261,"Hickerson, ALANOklahoma City - OK",Male 30 to 34,34,M,4:59:34.2,+2:10:39.8+77.36%56.38%-12.36%-14.77%05:59:48.8
+49,1223,"Gebremicheal, TecleBoise - ID",Male 30 to 34,31,M,5:00:14.8,+2:11:20.4+77.76%56.26%-12.61%-15.03%05:59:41.1
+50,1142,"Brown, NickMorgan - UT",Male 20 to 24,20,M,5:04:28.2,+2:15:33.8+80.26%55.48%-14.20%-16.65%05:59:36.2
+51,1250,"Harman, JacobSalt Lake City - UT",Male 40 to 44,40,M,5:06:41.1,+2:17:46.7+81.57%55.07%-15.03%-17.50%05:59:47.6
+52,1431,"Tremel, CelesteDetroit - MI",Female 55 to 59,58,F,5:16:28.7,+2:27:34.3+87.37%53.37%-18.70%-21.25%05:59:51.3
+53,1172,"Craven, TysonOgden - UT",Male 25 to 29,28,M,5:19:11.0,+2:30:16.6+88.97%52.92%-19.71%-22.29%05:59:57.3
+54,1356,"Nordness, MikeFargo - ND",Male 55 to 59,59,M,5:26:01.6,+2:37:07.2+93.02%51.81%-22.28%-24.91%05:59:56.3
+55,1292,"Jacobs, PaulLayton - UT",Male 65 to 69,67,M,5:42:07.7,+2:53:13.3+102.55%49.37%-28.32%-31.08%06:00:04.6
+56,1126,"Barker, JamesStansbury Park - UT",Male 40 to 44,40,M,5:56:56.4,+3:08:02.0+111.32%47.32%-33.88%-36.75%05:59:36.0
+57,1114,"Amos, ScottOgden - UT",Male 65 to 69,67,M,5:56:56.7,+3:08:02.3+111.33%47.32%-33.88%-36.75%05:59:36.0
+58,1138,"Boyer, AmandaBroomfield - CO",Female 20 to 24,24,F,5:56:57.4,+3:08:03.0+111.33%47.32%-33.88%-36.76%05:59:36.0
+59,1435,"Vernon, ChristopherCoalville - UT",Male 20 to 24,23,M,5:56:58.2,+3:08:03.8+111.34%47.32%-33.89%-36.76%05:59:36.0
+60,1263,"Hilton, AshleePleasant Grove - UT",Female 25 to 29,26,F,6:03:42.2,+3:14:47.8+115.33%46.44%-36.41%-39.34%05:59:57.9
+61,1252,"Harris, LauriePort Orchard - WA",Female 45 to 49,48,F,6:03:55.9,+3:15:01.5+115.46%46.41%-36.50%-39.43%05:59:53.4
+62,1295,"Jensen, SamanthaTucson - AZ",Female 15 to 19,18,F,6:04:09.7,+3:15:15.3+115.60%46.38%-36.58%-39.52%05:59:48.0
+-,1132,"Bernal, AlejandroGilbert - AZ",Male 20 to 24,20,M,DNF,-----05:59:36.0
+-,1183,"DeJeu, JordanDenver - CO",Female 30 to 34,31,F,DNF,-----05:59:36.0
+-,1224,"George, GabrieleOrem - UT",Female 65 to 69,65,F,DNF,-----05:59:36.0
+-,1303,"Karppinen, MeridithSyracuse - UT",Female 40 to 44,40,F,DNF,-----05:59:36.0
+-,1304,"Keenan, SeanOgden - UT",Male 25 to 29,29,M,DNF,-----05:59:36.0
+-,1329,"Lund, ChadAmerican Fork - UT",Male 20 to 24,24,M,DNF,-----05:59:36.0
+-,1358,"Ogden, CarlSan Diego - CA",Male 55 to 59,57,M,DNF,-----05:59:36.0
+-,1368,"Perret, StevenPittsburgh - PA",Male 25 to 29,29,M,DNF,-----05:59:36.0
+-,1372,"Pobieglo, AshleySyracuse - UT",Female 40 to 44,40,F,DNF,-----05:59:36.0
+-,1384,"Robertson, BrielleEphraim - UT",Female 20 to 24,20,F,DNF,-----05:59:36.0
+-,1385,"Robertson, TateMapleton - UT",Male 15 to 19,16,M,DNF,-----05:59:36.0
+-,1406,"Silva, BrianMountain Green - UT",Male 35 to 39,36,M,DNF,-----05:59:36.0
+-,1439,"Warren, DanSyracuse - UT",Male 70 to 74,73,M,DNF,-----05:59:36.0
+-,1442,"Whewell, BenjaminWaterford - CT",Male 25 to 29,26,M,DNF,-----05:59:36.0
+-,1445,"Wilson, MelanieChandler - AZ",Female 20 to 24,20,F,DNF,-----05:59:36.0

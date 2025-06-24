@@ -1,5 +1,4 @@
-,,,,,,,,,,,,,,
-Finishers - 295
+ignore,place,first_name,last_name,city,state,age,gender,gender_place,time,rank,status,age_group,time_millis,participant_id
 results,1,Nick,Scerbo,Arnold,MD,40,M,1,2:42:39,67.24,1,40-49,9759000,1909159
 results,2,Junxiao,Yi,Kearny,NJ,31,M,2,2:46:29,94.32,1,30-39,9989000,2125979
 results,3,Logan,Briggs,Issaquah,WA,28,M,3,2:47:20,97.2,1,20-29,10040000,2125997
