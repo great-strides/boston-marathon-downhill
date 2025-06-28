@@ -45,7 +45,7 @@ for event in events:
             break
         page += 1
 
-    with open(f'raw/marathons/utah-valley-marathon-{event["year"]}.csv', 'w', newline='') as f:
+    with open(f'raw/marathons/utah-valley-{event["year"]}.csv', 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(headers)
         writer.writerows(results)
